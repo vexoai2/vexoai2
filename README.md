@@ -1,6 +1,6 @@
 # Olá, eu sou a Larissa 👋
 
-**Analista de Dados** com 20 anos de gestão de restaurantes. Uso dados para responder a pergunta que mais vi ficar sem resposta nas cozinhas: **quanto custa, de verdade, cada prato?**
+**Estudante de Ciência de Dados** e analista de dados em formação. Antes da tecnologia, fui **gestora de restaurantes por 20 anos**. Hoje uso dados para responder a pergunta que mais vi ficar sem resposta nas cozinhas: **quanto custa, de verdade, cada prato?**
 
 Sou fundadora da [Vexo AI2](https://vexoai2.app), que usa inteligência artificial para ler a nota fiscal do fornecedor e atualizar o CMV e a margem de cada prato do cardápio.
 
